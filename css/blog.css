@@ -1,0 +1,30 @@
+/* Inserta tu codigo aqui */
+/*fondos*/
+.fondoBlog {
+	background-color: #F2F2F2;
+	padding: 10%;
+}
+
+.fondoArticulo {
+	background-color: #E6E6E6;
+	margin: 2%;
+}
+
+img{
+	width: 350px;
+	height: 250px;
+	float: right;
+
+}
+
+.botonVer {
+	color: white;
+	background-color: #0B0B61;
+	width: 25%;
+	height: 20%;
+	padding: 15px;
+	text-align: center;
+	border: none;
+	border-radius: 5px;
+	margin-top: 55px;
+}

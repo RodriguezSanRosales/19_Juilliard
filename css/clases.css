@@ -1,0 +1,68 @@
+/* Inserta tu codigo aqui */
+.fondoImgns{
+	background-color: #F2F2F2;
+	width: 100%;
+	height: 1150px;
+
+}
+.fondoDance12 {
+    background-image: url("../img/dance_12.jpg");
+	width: 100%;
+	height: 450px;
+	background-position: center;
+	padding-top: 40%;
+
+}
+.fondoBrakeDance {
+	background-image: url("../img/breakdance.jpg");
+	width: 100%;
+	height: 450px;
+	background-position: center;
+	padding-top: 40%;
+
+}
+.fondoJazz {
+	background-image: url("../img/lirical-jazz.jpg");
+	width: 100%;
+	height: 450px;
+	background-position: center;
+	padding-top: 40%;
+
+}
+
+.fondoArabe {
+   background-image: url("../img/arabe.jpg");
+   width: 100%;
+   height: 450px;
+   background-position: center;
+   padding-top: 40%;
+}
+
+.fondoLittle {
+   background-image: url("../img/little.jpg");
+   width: 100%;
+   height: 450px;
+   background-position: center;
+   padding-top: 40%;
+}
+
+.fondoYoga {
+   background-image: url("../img/yoga.jpg");
+   width: 100%;
+   height: 450px;
+   background-position: center;
+   padding-top: 40%;
+}
+
+.fondoTranNeg {
+	background-color: #000000;
+	opacity: 0.5;
+	width: 310px;
+	height: 170px;
+	margin-left: 25px;
+	padding: 60px;
+}
+.acoLados {
+	padding-left: 105px;
+	padding-right: 105px;
+}
